@@ -1,3 +1,3 @@
-token = 'a90280f3c9a3ae18dad60504a88dc3ca366d950000568b8e36fb3708a9df270b02f8b2896d66ae9a775c2'
-confirmation_token = '50feb165'
-access_token = '6cc528ed6cc528ed6cc528eddc6cbcea1c66cc56cc528ed0daa3148ccf403b46fd7f9a9'
+token = ''
+confirmation_token = ''
+access_token = ''
